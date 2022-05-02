@@ -2,7 +2,7 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
-  "entryAssembly": "TheToby1.github.io",
+  "entryAssembly": "Personal-Website",
   "icuDataMode": 0,
   "linkerEnabled": true,
   "resources": {
@@ -21,6 +21,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-YColTWA58whC+8aBjv1O7HgsyYrbHTba601EkNDWAlo=",
       "Microsoft.JSInterop.dll": "sha256-qAkdW9lpOxuToI9wOq2Liu3mqceR2fdv+cVOAwBcNqU=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-\/t0kGPO3Nt2TXo3rZz7S7wLoXxNakPKcEBdbVyyFlWo=",
+      "Personal-Website.dll": "sha256-CM0N050CQTfsRXt4+5s5kePNIQDzP1OkD9Oz0Uw8V+E=",
       "System.Collections.Concurrent.dll": "sha256-hGhgu\/OS\/8+hJZ6imA9Og15rFiJ++eaGKY+K1Nc6tWc=",
       "System.Collections.dll": "sha256-K7gc5Abi5IWqw6eILawCtFm8KdV12iTab1+IZsz4iOg=",
       "System.ComponentModel.dll": "sha256-xPl13TsFTPZZhDa4WyYTkzfZSBm0UXve\/NnDagg5oDs=",
@@ -34,8 +35,7 @@
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-3jnPxBda2nhaRyaPmdM6MLzMcar8slYE9QCZRTpsswQ=",
       "System.Runtime.dll": "sha256-ugn9V27UM37lbRogltB0iueK0rMjWPKpwKWXiF40+9o=",
       "System.Text.Encodings.Web.dll": "sha256-YzMdXtB4qiVZw\/kTy0U8HXrPcvrzgfxm8px4fV0aEm4=",
-      "System.Text.Json.dll": "sha256-mnJ7MND6I6ySo6fTk4q0hZTXDw8KSdcgYQyHO2GsHAc=",
-      "TheToby1.github.io.dll": "sha256-D04Yv2rgU9oRQn5q\/BZ6rIFbzcIgffCC1lHOdLH2f8I="
+      "System.Text.Json.dll": "sha256-mnJ7MND6I6ySo6fTk4q0hZTXDw8KSdcgYQyHO2GsHAc="
     },
     "extensions": null,
     "lazyAssembly": null,
